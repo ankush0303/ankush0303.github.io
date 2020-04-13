@@ -1,11 +1,18 @@
 ---
 layout: archive
-title: "Contact"
+title: "Projects"
 permalink: /contact/
 author_profile: true
 ---
 
-Email: ameyanjarlekar [at] iitb.ac.in/
+**DNA Sequencing Through Neural Networks**
 
-ameyanjarlekar [at] gmail.com
+**Supervised Detection of Tennis Ball from Camera Stream**
 
+**Image Reconstruction for Parallel MRI**
+
+**Distortion Correction for Modulation Recognition**
+
+**Modified Particle Filter Algorithm For Monostatic Radar**
+
+**Use of Residuals for Image Denoising**
