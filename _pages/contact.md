@@ -9,7 +9,7 @@ Here are the links to the major non-research projects I have undertaken. They ar
 
 [Use of Residuals for Image Denoising](http://ameyanjarlekar.github.io/files/residuals.pdf)
 
-[Supervised Detection of Tennis Ball from Camera Stream](https://github.com/ameyanjarlekar/MRT/blob/master/README.md)
+[Supervised Detection of Tennis Ball from Camera Stream](https://github.com/ameyanjarlekar/MRT)
 
 [Image Reconstruction for Parallel MRI](http://ameyanjarlekar.github.io/files/GRAPPA.pdf)
 
