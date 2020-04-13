@@ -7,7 +7,7 @@ author_profile: true
 
 Here are the links to the major non-research projects I have undertaken. They are a mixture of course projects and technical projects.
 
-<b>[Use of Residuals for Image Denoising](http://ameyanjarlekar.github.io/files/residuals.pdf)</b> <br> 
+[Use of Residuals for Image Denoising](http://ameyanjarlekar.github.io/files/residuals.pdf)
 
 [Supervised Detection of Tennis Ball from Camera Stream](https://github.com/ameyanjarlekar/MRT)
 
