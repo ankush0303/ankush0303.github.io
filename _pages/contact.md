@@ -10,14 +10,20 @@ Here are the links to the major non-research projects I have undertaken. They ar
 <br>
 <b>[Use of Residuals for Image Denoising](http://ameyanjarlekar.github.io/files/residuals.pdf)</b> <br> 
 
-[Supervised Detection of Tennis Ball from Camera Stream](https://github.com/ameyanjarlekar/MRT)
+<br>
+<b>[Supervised Detection of Tennis Ball from Camera Stream](https://github.com/ameyanjarlekar/MRT)</b> <br> 
 
-[Image Reconstruction for Parallel MRI](http://ameyanjarlekar.github.io/files/GRAPPA.pdf)
+<br>
+<b>[Image Reconstruction for Parallel MRI](http://ameyanjarlekar.github.io/files/GRAPPA.pdf)</b> <br> 
 
-[Distortion Correction for Modulation Recognition](http://ameyanjarlekar.github.io/files/signal_distort.pdf)
+<br>
+<b>[Distortion Correction for Modulation Recognition](http://ameyanjarlekar.github.io/files/signal_distort.pdf)</b> <br> 
 
-[DNA Sequencing Through Neural Networks](http://ameyanjarlekar.github.io/files/pol.pdf)
+<br>
+<b>[DNA Sequencing Through Neural Networks](http://ameyanjarlekar.github.io/files/pol.pdf)</b> <br> 
 
-[Microprocessor design](https://github.com/ameyanjarlekar/Microprocessor-design/blob/master/project1/README)
+<br>
+<b>[Microprocessor design](https://github.com/ameyanjarlekar/Microprocessor-design/blob/master/project1/README)</b> <br> 
 
-[Text Categorization](http://ameyanjarlekar.github.io/files/text_categ.pdf)
+<br>
+<b>[Text Categorization](http://ameyanjarlekar.github.io/files/text_categ.pdf)</b> <br> 
