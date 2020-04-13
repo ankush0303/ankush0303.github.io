@@ -18,8 +18,8 @@ redirect_from:
 * I like to play cricket, table-tennis and chess. I also like to explore different cultures (and cuisines) and have a fine understanding of the German language.
 
 # Recent News
-* March, 2020. Journal paper titled "Generalized Fractional Ambiguity Function and Its Applications" was accepted to Circuits, Systems and Signal Processing, Springer [CSSP](https://www.springer.com/journal/34).
-* February, 2020. Presented the poster of the paper titled "Generalized Fractional Matched Filtering and Its Applications" at National Conference on Communications, 2020. [NCC 2020](http://www.ncc2020.iitkgp.ac.in/).
-* February, 2020. Paper titled "Generalized Fractional Matched Filtering and Its Applications" was accepted to National Conference on Communications, 2020. [NCC 2020](http://www.ncc2020.iitkgp.ac.in/).
+* March, 2020. Journal paper titled "Generalized Fractional Ambiguity Function and Its Applications" (http://ameyanjarlekar.github.io/files/GFAF.pdf) was accepted to Circuits, Systems and Signal Processing, Springer ([CSSP])(https://www.springer.com/journal/34).
+* February, 2020. Presented the poster of the paper titled "[Generalized Fractional Matched Filtering and Its Applications]"(http://ameyanjarlekar.github.io/files/NCC_poster.pdf) at National Conference on Communications, 2020. ([NCC 2020])(http://www.ncc2020.iitkgp.ac.in/).
+* February, 2020. Paper titled "Generalized Fractional Matched Filtering and Its Applications"(http://ameyanjarlekar.github.io/files/GFMF.pdf) was accepted to National Conference on Communications, 2020. ([NCC 2020])(http://www.ncc2020.iitkgp.ac.in/).
 * December 2019. Received IRCC award for contribution to research in the field of Radar Signal Processing. 
 * June, 2019. Recieved the Undergraduate Research Award (URA-01) for contribution to the development of indigenous MRI technology being developed at IIT Bombay.
