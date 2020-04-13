@@ -23,7 +23,7 @@ Here are the links to the major non-research projects I have undertaken. They ar
 <b>[DNA Sequencing Through Neural Networks](http://ameyanjarlekar.github.io/files/pol.pdf)</b> <br> 
 
 <br>
-<b>[Microprocessor design](https://github.com/ameyanjarlekar/Microprocessor-design/blob/master/project1/README)</b> <br> 
+<b>[Microprocessor design](http://ameyanjarlekar.github.io/publications/proc.md)</b> <br> 
 
 <br>
 <b>[Text Categorization](http://ameyanjarlekar.github.io/files/text_categ.pdf)</b> <br> 
