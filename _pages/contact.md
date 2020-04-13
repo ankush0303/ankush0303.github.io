@@ -5,7 +5,7 @@ permalink: /contact/
 author_profile: true
 ---
 
-Contact: 9167152710
+Phone: 9167152710
 
 Email: ameyanjarlekar [at] iitb.ac.in/ ameyanjarlekar [at] gmail.com
 
