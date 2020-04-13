@@ -11,9 +11,10 @@ redirect_from:
 
 
 # About Me
-* I'm Ameya Anjarlekar, B.Tech student in the [Electrical Department](https://www.ee.iitb.ac.in/web) at [Indian Institute of Technology, Bombay](http://iitb.ac.in/). I am also pursuing a minor in Computer Science. [Curriculum Vitae](http://ameyanjarlekar.github.io/files/CV.pdf)
-* My research interests lie in the general field of signal processing particularly in signal analysis using transforms such as Fourier, Fractional Fourier transforms and wavelet transforms, compressive sensing and statistical signal processing with its application in the field of Image Processing and radar signal processing. I also have a keen understanding in the fields of deep learning and reinforcement learning.
-* I like to play cricket, table-tennis and chess. I also like to explore different cultures (and cuisines) and have a fine understanding of the German language. I was also a cadet of the National Cadet Corps (NCC) and attended their Annual Training Camp.
+* I'm Ameya Anjarlekar, B.Tech student in the [Electrical Department](https://www.ee.iitb.ac.in/web) at [Indian Institute of Technology, Bombay](http://iitb.ac.in/). I am also pursuing a minor in Computer Science. Here's my [Curriculum Vitae](http://ameyanjarlekar.github.io/files/CV.pdf)
+* My research interests lie in the general field of signal processing particularly in signal analysis using transforms such as Fourier, Fractional Fourier transforms and wavelet transforms, compressive sensing and statistical signal processing with its application in the field of Image Processing and radar signal processing.
+Along with that, the fields of deep learning and reinforcement learning also interest me.
+* I like to play cricket, table-tennis and chess. Moreover, I like to explore different cultures (and cuisines) and have a fine understanding of the German language. I was also a cadet of the National Cadet Corps (NCC) and attended their Annual Training Camp.
 
 # Recent News
 * March, 2020. Journal paper titled ["Generalized Fractional Ambiguity Function and Its Applications"](http://ameyanjarlekar.github.io/files/GFAF.pdf) was accepted to Circuits, Systems and Signal Processing, Springer [(CSSP)](https://www.springer.com/journal/34).
