@@ -13,7 +13,7 @@ redirect_from:
 </p>
 
 # About Me
-* I am a B.Tech student in the [Electrical Department](https://www.ee.iitb.ac.in/web) at [Indian Institute of Technology, Bombay](http://iitb.ac.in/) [Curriculum Vitae](http://ameyanjarlekar.github.io/files/CV.pdf)
+* I am a B.Tech student in the [Electrical Department](https://www.ee.iitb.ac.in/web) at [Indian Institute of Technology, Bombay](http://iitb.ac.in/). I am also pursuing a minor in Computer Science. [Curriculum Vitae](http://ameyanjarlekar.github.io/files/CV.pdf)
 * My research interests lie in the general field of signal processing particularly in signal analysis using transforms such as Fourier, Fractional Fourier transforms and wavelet transforms, compressive sensing and statistical signal processing with its application in the field of Image Processing and radar signal processing. I also have a keen understanding in the fields of deep learning and reinforcement learning.
 * I like to play cricket, table-tennis and chess. I also like to explore different cultures (and cuisines) and have a fine understanding of the German language.
 
