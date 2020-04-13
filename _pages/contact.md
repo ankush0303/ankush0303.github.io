@@ -5,7 +5,7 @@ permalink: /contact/
 author_profile: true
 ---
 
-[DNA Sequencing Through Neural Networks]()
+[DNA Sequencing Through Neural Networks](http://ameyanjarlekar.github.io/files/pol.pdf)
 
 [Supervised Detection of Tennis Ball from Camera Stream](https://github.com/ameyanjarlekar/MRT/blob/master/README.md)
 
