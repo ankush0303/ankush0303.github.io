@@ -14,13 +14,10 @@ Here are the links to the major non-research projects I have undertaken. They ar
 <b>[Supervised Detection of Tennis Ball from Camera Stream](https://github.com/ameyanjarlekar/MRT)</b> <br> 
 
 <br>
-<b>[Image Reconstruction for Parallel MRI](http://ameyanjarlekar.github.io/files/GRAPPA.pdf)</b> <br> 
+<b>[Image Reconstruction for Parallel MRI](https://github.com/ameyanjarlekar/Grappa-algorithm-for-Parallel-MRI)</b> <br> 
 
 <br>
 <b>[Distortion Correction for Modulation Recognition](http://ameyanjarlekar.github.io/files/signal_distort.pdf)</b> <br> 
-
-<br>
-<b>[DNA Sequencing Through Neural Networks](http://ameyanjarlekar.github.io/files/pol.pdf)</b> <br> 
 
 <br>
 <b>[Microprocessor design](http://ameyanjarlekar.github.io/publications/proc.md)</b> <br> 
