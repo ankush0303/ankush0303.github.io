@@ -5,7 +5,7 @@ permalink: /contact/
 author_profile: true
 ---
 
-Here are the links to the major non-research projects I have undertaken. They are a mixture of course projects and technical projects. Click on the title for a detailed report.
+Here are the links to the major projects I have undertaken. They are a mixture of course projects and technical projects. Click on the title for a detailed report.
 
 <br>
 <b> [Video Compression for efficient Remote Support video storage and retrieval] (https://docs.google.com/presentation/d/1s6hPTey_Io6pHKXVyL2HjT6fy4xf-CgNCyTM-haO-80/edit?usp=sharing)</b> <br>
