@@ -9,7 +9,7 @@ Here are the links to the major projects I have undertaken. They are a mixture o
 
 
 <br>
-<b> [Video Compression for efficient Remote Support video storage and retrieval] (https://docs.google.com/presentation/d/1s6hPTey_Io6pHKXVyL2HjT6fy4xf-CgNCyTM-haO-80/edit?usp=sharing)</b> <br>
+<b> [Video Compression for efficient Remote Support video storage and retrieval](https://docs.google.com/presentation/d/1s6hPTey_Io6pHKXVyL2HjT6fy4xf-CgNCyTM-haO-80/edit?usp=sharing)</b> <br>
 Video Compression algorithm specifically for Daikin video-database. Uses a Hitomi Camera architecture inspired compressed sensing algorithm.
 
 <br>
