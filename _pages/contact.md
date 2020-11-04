@@ -8,6 +8,10 @@ author_profile: true
 Here are the links to the major non-research projects I have undertaken. They are a mixture of course projects and technical projects. Click on the title for a detailed report.
 
 <br>
+<b> [Video Compression for efficient Remote Support video storage and retrieval] (https://docs.google.com/presentation/d/1s6hPTey_Io6pHKXVyL2HjT6fy4xf-CgNCyTM-haO-80/edit?usp=sharing)</b> <br>
+Video Compression algorithm specifically for Daikin video-database. Uses a Hitomi Camera architecture inspired compressed sensing algorithm.
+
+<br>
 <b>[Use of Residuals for Image Denoising](http://ameyanjarlekar.github.io/files/residuals.pdf)</b> <br> 
  Denoising algorithm using the residual image. Also, studied and implemented metrics for quality of image denoising without the use of the reference image.
 
