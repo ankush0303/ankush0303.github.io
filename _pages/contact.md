@@ -9,7 +9,7 @@ Here are the links to the major non-research projects I have undertaken. They ar
 
 <br>
 <b>[Use of Residuals for Image Denoising](http://ameyanjarlekar.github.io/files/residuals.pdf)</b> <br> 
- Denoising algorithm using the residual image. Also, studied and implemented metrics for quality of image denoisingwithout the use of the reference image.
+ Denoising algorithm using the residual image. Also, studied and implemented metrics for quality of image denoising without the use of the reference image.
 
 <br>
 <b>[Supervised Detection of Tennis Ball from Camera Stream](https://github.com/ameyanjarlekar/MRT)</b> <br> 
