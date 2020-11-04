@@ -9,19 +9,24 @@ Here are the links to the major non-research projects I have undertaken. They ar
 
 <br>
 <b>[Use of Residuals for Image Denoising](http://ameyanjarlekar.github.io/files/residuals.pdf)</b> <br> 
- Implemented a denoisingalgorithm using the residual image.  Also, studied and implemented metrics for quality of image denoisingwithout the use of the reference image.
+ Denoising algorithm using the residual image. Also, studied and implemented metrics for quality of image denoisingwithout the use of the reference image.
 
 <br>
 <b>[Supervised Detection of Tennis Ball from Camera Stream](https://github.com/ameyanjarlekar/MRT)</b> <br> 
+Ball detection task required in the autonomous operations of the mars rover. This was done as a part of the IITB Mars Rover Team for the University Rover Challenge. 
 
 <br>
 <b>[Image Reconstruction for Parallel MRI](https://github.com/ameyanjarlekar/Grappa-algorithm-for-Parallel-MRI)</b> <br> 
+Modified version of GRAPPA algorithm on Xilinx Zynq-7000 FPGA Board for image reconstruction during Parallel MRI used in the indigenous MRI machine being developed at IIT Bombay
 
 <br>
 <b>[Distortion Correction for Modulation Recognition](http://ameyanjarlekar.github.io/files/signal_distort.pdf)</b> <br> 
+Deployed a CNN model on the "RML2018.10a" dataset for the frequency estimation of various signals and analyzed its performance over various Signal to Noise (SNR) ratio
 
 <br>
 <b>[Microprocessor design](http://ameyanjarlekar.github.io/publications/proc.md)</b> <br> 
+Designed a RISC microprocessor using VHDL
 
 <br>
 <b>[Text Categorization](http://ameyanjarlekar.github.io/files/text_categ.pdf)</b> <br> 
+Classifying various articles from the 20Newsgroups dataset into 20 different categories.
