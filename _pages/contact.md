@@ -14,7 +14,7 @@ Video Compression algorithm specifically for Daikin video-database. Uses a Hitom
 
 <br>
 <b>[Blind Compressed Sensing](https://ameyanjarlekar.github.io/files/BCS.pdf)</b> <br> 
- Reviewed various theoretical results of Blind Compressed Sensing and implemented the corresponding algorithm for joint estimation of dictionaryand images. Detailed mathematical analysis can be found <br> <b>[here](https://ameyanjarlekar.github.io/files/Mathematical_analysis.pdf)</b> <br>.
+ Reviewed various theoretical results of Blind Compressed Sensing and implemented the corresponding algorithm for joint estimation of dictionaryand images. Detailed mathematical analysis can be found <b>[here](https://ameyanjarlekar.github.io/files/Mathematical_analysis.pdf)</b>.
  
 <br>
 <b>[Use of Residuals for Image Denoising](http://ameyanjarlekar.github.io/files/residuals.pdf)</b> <br> 
