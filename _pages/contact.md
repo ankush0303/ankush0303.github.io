@@ -19,6 +19,10 @@ Video Compression algorithm specifically for Daikin video-database. Uses a Hitom
 <br>
 <b>[Use of Residuals for Image Denoising](http://ameyanjarlekar.github.io/files/residuals.pdf)</b> <br> 
  Denoising algorithm using the residual image. Also, studied and implemented metrics for quality of image denoising without the use of the reference image.
+ 
+ <br>
+<b>[Target Parameter Estimation from Compressive Measurements](http://ameyanjarlekar.github.io/files/Doppler-Microdoppler.pdf)</b> <br> 
+ Parameter estimation of rotating targets through Doppler and Micro-Doppler estimation of corresponding radar signals from their compressive measurements.
 
 <br>
 <b>[Supervised Detection of Tennis Ball from Camera Stream](https://github.com/ameyanjarlekar/MRT)</b> <br> 
