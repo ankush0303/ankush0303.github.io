@@ -21,7 +21,7 @@ I have completed my B.Tech in the Engineering Physics at [Indian Institute of Te
 Here's my [Curriculum Vitae (4 Page)](https://ankush0303.github.io//files/Ankush_CV.pdf) and my [Resume (1 Page)](https://ankush0303.github.io//files/Ankush_Resume.pdf)
 
 
-Updates
+# Updates
 * <b>Sep, 2023:</b> <b>”Enhanced customer engagement with quick and precise PSpice models using AI”</b> showcased at the
 Texas Instruments Technical Leadership Conference, Texas
 * <b>May, 2023:</b>  Pioneered the upload of ML-based PSpice device model for the TI product TPS25961 on [ti.com](https://www.ti.com/product/TPS25961#design-tools-simulation)
