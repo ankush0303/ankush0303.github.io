@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ameya Anjarlekar"
+title                    : "Ankush"
 title_separator          : "-"
-name                     : &name "Ameya Anjarlekar"
-description              : &description "B.Tech student, Electrical Engineering Department, IIT Bombay"
-url                      : https://ameyanjarlekar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Ankush"
+description              : &description "B.Tech student, Physics Department, IIT Bombay"
+url                      : https://ankush0303.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ameyanjarlekar/ameyanjarlekar.github.io"
+repository               : "ankush0303/ankush0303.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -77,14 +77,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ameya Anjarlekar"
-  avatar           : "picture.jpg"
-  bio              : "B.Tech student, Electrical Engineering Department, IIT Bombay"
+  name             : "Ankush"
+  avatar           : "ankush_picture.jpg"
+  bio              : "B.Tech student, Physics Department, IIT Bombay"
   location         : "Mumbai, India"
   employer         : 
   #googlescholar    : "https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=VbvidqUAAAAJ"
-  email            : "ameyanjarlekar@gmail.com"
+  googlescholar    : 
+  email            : "ankush.ankush0303@gmail.com"
   uri              : 
   bitbucket        :
   codepen          :
@@ -92,12 +92,12 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "ameyanjarlekar"
+  github           : 
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         : "ameya-anjarlekar-508371166"
+  linkedin         : "https://www.linkedin.com/in/ankush-ankush03/"
   orcid            : 
   pinterest        :
   soundcloud       :
