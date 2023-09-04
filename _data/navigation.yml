@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "CV"
-    url: /files/Ankush_CV_2023.pdf
+    url: /files/Ankush_CV.pdf
 
 
   # - title: "Publications"
@@ -21,7 +21,7 @@ main:
         
     
   - title: "Resume"
-    url: /files/Ankush_One_Page_2023.pdf 
+    url: /files/Ankush_Resume.pdf 
     
   # - title: "Guide"
     # url: /markdown/
