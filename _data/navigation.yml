@@ -18,8 +18,8 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  # - title: "Blogs"
-  #   url: /year-archive/
+  - title: "Resume"
+     url: /files/Ankush_One_Page_2023.pdf
     
   - title: "Projects"
     url: /contact/  
