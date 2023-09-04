@@ -4,12 +4,11 @@ title: "Awards & Achievements"
 permalink: /awards/
 author_profile: true
 ---
-* Awarded **Undergraduate Research Award** (URA-01) by IIT Bombay for contribution to the indigenous MRI technology being developed at IIT Bombay.
-* Received **IRCC Award** for excellent R&D work in Radar Signal Processing.
-* Secured an **AP grade** (awarded to less than 1% students) in the course on differential equations (MA 207).
-* Secured an All-India Rank of **132** in the JEE-Advanced, out of selected 0.25 million students.
-* Secured an All-India Rank of **215** in the JEE - Mains, out of around 1.1 million students.
-* Awarded fellowship by the Indian Institute of Science (IISC), Bangalore for securing an All-India Rank of 243 in **KVPY** (Kishore Vaigyanik Protsahan Yojana )out of around 80,000 students.
-* Placed among the top 500 students of the nation to be selected for the **Indian National Maths Olympiad.**
-* Secured the nationwide top **1%** position in NSEP (National Standard Examination in Physics) conducted by IAPT (Indian Association of Physics Teachers).
-* Awarded **A2** certificate by the Goethe-Institut for proficiency in German language.
+• Texas Instruments Global Recognition (x2) for excellent work 
+• Recipient of the Madhuri Gupta Scholarship from the Bombay Sappers Association (BSA) for all four
+years of my undergraduate studies, an honor awarded to only two students nationwide annually
+• Awarded Merit-based scholarship in high school based on academic performance 
+• Achieved All India Rank 912 in JEE Advanced among 220,000 students 
+• Acquired All India Rank 1957 in JEE mains out of 1.2 Million students 
+• Amongst State-wise Top 1% in National Standard Examination in Chemistry (NSEC), organized by IAPT
+and was among 300 who qualified for Indian National Chemistry Olympiad
