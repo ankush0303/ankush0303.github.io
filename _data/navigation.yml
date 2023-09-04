@@ -3,8 +3,8 @@ main:
   - title: "CV/Bio"
     url: /files/CV2pg.pdf
 
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #  url: /publications/
 
   # - title: "Awards & Achievements"
   #   url: /awards/
