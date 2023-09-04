@@ -3,8 +3,7 @@ main:
   - title: "CV"
     url: /files/Ankush_CV_2023.pdf
 
-- title: "Resume"
-    url: /files/Ankush_One_Page_2023.pdf
+
   # - title: "Publications"
   #  url: /publications/
 
@@ -21,8 +20,8 @@ main:
   #   url: /portfolio/
         
     
-  - title: "Projects"
-    url: /contact/  
+  - title: "Resume"
+    url: /files/Ankush_One_Page_2023.pdf 
     
   # - title: "Guide"
     # url: /markdown/
