@@ -24,7 +24,7 @@ Here's my [Curriculum Vitae (4 Page)](https://ankush0303.github.io//files/Ankush
 Updates
 * <b>Sep, 2023:</b> <b>”Enhanced customer engagement with quick and precise PSpice models using AI”<b/> showcased at the
 Texas Instruments Technical Leadership Conference, Texas
-* <b>May, 2023:</b> • Pioneered the upload of ML-based PSpice device model for the TI product TPS25961 on [ti.com](https://www.ti.com/product/TPS25961#design-tools-simulation)
+* <b>May, 2023:</b>  Pioneered the upload of ML-based PSpice device model for the TI product TPS25961 on [ti.com](https://www.ti.com/product/TPS25961#design-tools-simulation)
 * <b>April, 2023:</b> <b>”ML driven PSpice model”</b> presented at the Texas Instruments India Technical Conference
 * <b>June, 2021:</b>  Started working as an <b>Analog Design Verification Engineer</b> in the Power Switch team (Analog Power Products Department) at <b>Texas Instruments</b>
 * <b>July, 2020:</b> Completed a Digital design internship at TI and awarded PPO (Pre-Placement Offer) for outstanding contributions
