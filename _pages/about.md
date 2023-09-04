@@ -12,8 +12,8 @@ redirect_from:
 
 # About Me
 * I am currently working as an Analog Design Verification Engineer in the Power Switch team (Analog Power Products Department) at Texas Instruments. Currently the lead liaison and TI coordinator for SRC (Semiconductor Research Corporation) project with Georgia Tech on "ML-Assisted Scalable DfT and BIST of AMS Systems" [SRC 3160.005]. I have completed my B.Tech in the Engineering Physics at [Indian Institute of Technology, Bombay](http://iitb.ac.in/) with a minor in Computer Science and Engineering. Here's my
-* [Curriculum Vitae (4 Page)](https://ankush0303.github.io//files/Ankush_CV_2023.pdf)
-* [Resume (1 Page)](https://ankush0303.github.io//files/Ankush_One_Page_2023.pdf)
+         [Curriculum Vitae (4 Page)](https://ankush0303.github.io//files/Ankush_CV_2023.pdf)
+         [Resume (1 Page)](https://ankush0303.github.io//files/Ankush_One_Page_2023.pdf)
 * My research interests lie in the general field of signal processing particularly in sparse signal representation through time-frequency transforms, compressive sensing, with its application in the field of Image Processing and radar signal processing. 
 Along with that, the fields of deep learning and reinforcement learning also interest me.
 * I like to play cricket, table-tennis and chess. Moreover, I like to explore different cultures (and cuisines) and have a fine understanding of the German language. I was also a cadet of the National Cadet Corps (NCC) and attended their Annual Training Camp.
